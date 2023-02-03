@@ -2,8 +2,6 @@
 @import url("fontawesome-all.min.css");
 
 /*
-	Big Picture by Pixelarity
-	pixelarity.com | hello@pixelarity.com
 	License: pixelarity.com/license
 */
 
@@ -2264,10 +2262,11 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/");
-		background-size: 256px 256px, cover;
+		background: url("../../images/whoweare.png");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+		background-repeat: no-repeat;
 	}
 
 /* Contact */
