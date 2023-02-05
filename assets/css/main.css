@@ -2242,7 +2242,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/introbg1.png"), url("../../images/introbg1.png");
+		background: url("images/introbg3.png"), url("../../images/introbg3.png");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
